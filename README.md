@@ -12,7 +12,7 @@ Sometimes I write cool things on 👉[LinkedIn](https://www.linkedin.com/in/leo-
 ### What I've been doing ...
 
 <a href="https://github.com/hv-leo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv-leo&custom_title=Top 3 Most Used Languages&theme=radical&hide=Smarty,HTML" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv-leo&custom_title=Top 3 Most Used Languages&theme=radical&langs_count=3" />
 </a>
 <a href="https://github.com/hv-leo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hv-leo&show_icons=true&custom_title=GitHub Stats&line_height=27&theme=radical" />
