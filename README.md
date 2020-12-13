@@ -9,6 +9,15 @@ I'm an energetic and enthusiastic computer geek. Passionate about:
 
 Sometimes I write cool things on 👉[LinkedIn](https://www.linkedin.com/in/leo-coelho/)👈!
 
+### Stats
+
+<a href="https://github.com/hv-leo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv-leo&theme=radical&hide=Smarty,HTML" />
+</a>
+<a href="https://github.com/hv-leo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hv-leo&show_icons=true&custom_title=GitHub Stats&line_height=27&theme=radical" />
+</a>
+
 ### Hitachi Vantara 💼
 
 At Hitachi, I work for the Lumada DataOps Suite. Lumada DataOps is a modular system for intelligent data operations. It offers analytics, data integration, data optimization, and data cataloging capabilities in a Kubernetes-oriented environment. 
@@ -22,12 +31,3 @@ I am mainly working as the **DevOps engineer** of my team:
 ### Analytic Partners 💼
 
 In part-time, I act as an ETL Expert Consultant for Analytic Partners. They produce marketing measurement reports (ROI Genome). I have been designing and implementing a data integration architecture to ingest, assess, score, and cleanse data to feed the marketing measurement reports in real-time.
-
-### Stats
-
-<a href="https://github.com/hv-leo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv-leo&theme=radical&hide=Smarty,HTML" />
-</a>
-<a href="https://github.com/hv-leo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hv-leo&show_icons=true&custom_title=GitHub Stats&line_height=27&theme=radical" />
-</a>
