@@ -20,7 +20,7 @@ Sometimes I write cool things on 👉[LinkedIn](https://www.linkedin.com/in/leo-
 
 ### Hitachi Vantara 💼
 
-At Hitachi, I work for the Lumada DataOps Suite. Lumada DataOps is a modular system for intelligent data operations. It offers analytics, data integration, data optimization, and data cataloging capabilities in a Kubernetes-oriented environment. 
+At Hitachi, I work for the **Lumada DataOps Suite**. Lumada DataOps is a modular system for intelligent data operations. It offers analytics, data integration, data optimization, and data cataloging capabilities in a **Kubernetes-oriented environment**. 
 
 Learn more about DataOps at [Lumada DataOps Suite page](https://www.hitachivantara.com/en-us/products/data-management-analytics/lumada-dataops-suite.html) and [Lumada DataOps Suite Overview](https://www.hitachivantara.com/en-us/pdfd/brochure/lumada-dataops-suite-overview.pdf).   
 
@@ -30,4 +30,4 @@ I am mainly working as the **DevOps engineer** of my team:
 
 ### Analytic Partners 💼
 
-In part-time, I act as an ETL Expert Consultant for Analytic Partners. They produce marketing measurement reports (ROI Genome). I have been designing and implementing a data integration architecture to ingest, assess, score, and cleanse data to feed the marketing measurement reports in real-time.
+In part-time, I act as an ETL Expert Consultant for Analytic Partners. They produce marketing measurement reports (**ROI Genome**). I have been designing and implementing a data integration architecture to ingest, assess, score, and cleanse data to feed the **marketing measurement reports in real-time**.
