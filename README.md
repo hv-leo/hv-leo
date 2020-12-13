@@ -18,7 +18,7 @@ Sometimes I write cool things on 👉[LinkedIn](https://www.linkedin.com/in/leo-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hv-leo&show_icons=true&custom_title=GitHub Stats&line_height=27&theme=radical" />
 </a>
 
-### Hitachi Vantara 💼
+### Hitachi Vantara (Full-time) 💼
 
 At Hitachi, I work for the **Lumada DataOps Suite**. Lumada DataOps is a modular system for intelligent data operations. It offers analytics, data integration, data optimization, and data cataloging capabilities in a **Kubernetes-oriented environment**. 
 
@@ -28,6 +28,6 @@ I am mainly working as the **DevOps engineer** of my team:
   * Developing the Docker images and Helm charts of our components and maintaining our AWS Kubernetes clusters.
   * Building a CI/CD infrastructure to support our developments with GitHub Actions. It supports feature branches, automation and quality checks, and Slack notifications.
 
-### Analytic Partners 💼
+### Analytic Partners (Part-time) 💼
 
-In part-time, I act as an ETL Expert Consultant for Analytic Partners. They produce marketing measurement reports (**ROI Genome**). I have been designing and implementing a data integration architecture to ingest, assess, score, and cleanse data to feed the **marketing measurement reports in real-time**.
+I act as an ETL Expert Consultant for Analytic Partners. They produce marketing measurement reports (**ROI Genome**). I have been designing and implementing a data integration architecture to ingest, assess, score, and cleanse data to feed the **marketing measurement reports in real-time**.
