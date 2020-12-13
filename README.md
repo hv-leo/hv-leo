@@ -9,7 +9,7 @@ I'm an energetic and enthusiastic computer geek. Passionate about:
 
 Sometimes I write cool things on 👉[LinkedIn](https://www.linkedin.com/in/leo-coelho/)👈!
 
-### Stats
+### What I've been doing ...
 
 <a href="https://github.com/hv-leo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv-leo&theme=radical&hide=Smarty,HTML" />
