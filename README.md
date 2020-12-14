@@ -3,9 +3,9 @@
 Based in Portugal, I am remotely working for **Hitachi Vantara (Software Engineer)** and **Analytic Partners (ETL Expert Consultant)**. 
 
 I'm an energetic and enthusiastic computer geek. Passionate about: 
-  1. **Data (ETL, Pentaho, Python, ...)**
-  2. **DevOps (Kubernetes, GitHub Actions, ...)**.
-  3. **Web Development (React, Spring, ...)**
+  1. **Data** (ETL, Pentaho, Python, ...).
+  2. **DevOps** (Kubernetes, GitHub Actions, ...).
+  3. **Web Development** (React, Spring, ...).
 
 Sometimes I write cool things on 👉[LinkedIn](https://www.linkedin.com/in/leo-coelho/)👈!
 
